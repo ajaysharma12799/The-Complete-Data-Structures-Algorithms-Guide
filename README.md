@@ -1,1 +1,1 @@
-### The Complete Data Structures & Algorithms Guid
+### The Complete Data Structures & Algorithms Guide
